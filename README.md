@@ -3,12 +3,10 @@
 
 As a dedicated Data Analyst and Business Analyst, I specialize in transforming complex data into actionable insights and strategic business solutions. With a strong foundation in statistical analysis, data visualization, and business intelligence, I excel at identifying trends, optimizing processes, and driving data-informed decision-making. My expertise spans various industries, allowing me to adeptly tackle challenges and deliver results that enhance operational efficiency and foster business growth. Passionate about leveraging data to create value, I am committed to continuous learning and staying abreast of the latest analytical tools and methodologies.
 
-Skills: Python / SQL / Power Bi / Excel / R / SPSS 
-
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> Skills: Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
