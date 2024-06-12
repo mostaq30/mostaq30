@@ -11,7 +11,22 @@ Skills: Python / SQL / Power Bi / Excel / R / SPSS
 - 📫 reach me: saqlain.mostaq.nd@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mostaq30)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saqlain-mostak-762380233//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/villsaqi__30//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.linkedin.com/in/saqlain-mostak-762380233/)  
+<a href="https://github.com/mostaq30" target="_blank" rel="noopener noreferrer">
+  <i class="fab fa-github" style="color: #333;"></i>
+</a>
+
+<a href="https://www.linkedin.com/in/saqlain-mostak-762380233/" target="_blank" rel="noopener noreferrer">
+  <i class="fab fa-linkedin" style="color: #0077B5;"></i>
+</a>
+
+<a href="https://www.instagram.com/villsaqi__30/" target="_blank" rel="noopener noreferrer">
+  <i class="fab fa-instagram" style="color: #E4405F;"></i>
+</a>
+
+<a href="https://www.linkedin.com/in/saqlain-mostak-762380233/" target="_blank" rel="noopener noreferrer">
+  <i class="fas fa-cloud" style="color: #0072C6;"></i>
+</a>
+ 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/mostaq30&show_icons=true)  
 
