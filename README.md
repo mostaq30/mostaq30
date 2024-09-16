@@ -7,7 +7,7 @@ As a dedicated Data Analyst and Business Analyst, I specialize in transforming c
 - 🔭 I’m currently studying for an MS in Statistics at Chittagong University. 
 - 🌱 I’m currently learning Business Analysis and Data Science.
 - 👯 I’m looking to collaborate on Remote Job with any Multinational Company. 
-- 👨‍💻 All of my projects are available at [https://dev-saqlainmostaq30.pantheonsite.io/](https://dev-saqlainmostaq30.pantheonsite.io/)
+- 👨‍💻 All of my projects are available at [https://dev-sm-saqlain-mostaq.pantheonsite.io/](https://dev-sm-saqlain-mostaq.pantheonsite.io/)
 - 📫 How to reach me **saqlain.mostaq.nd@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ABR_XRPJv3b_EbK2AOePBcRV4xDhvllx/view](https://drive.google.com/file/d/1ABR_XRPJv3b_EbK2AOePBcRV4xDhvllx/view)
 
