@@ -1,4 +1,4 @@
-![A Data and Business analyst](https://media.licdn.com/dms/image/D5616AQF7wzCOTEPAkA/profile-displaybackgroundimage-shrink_350_1400/0/1681712379802?e=1723680000&v=beta&t=E165m2lCtqfRGVJuGrDn89TLGAd9Fz_Mhvn-8kIND3c)
+
 ## Hi, I'm Saqlain Mostaq. A Data and Business analyst
 
 As a dedicated Data Analyst and Business Analyst, I specialize in transforming complex data into actionable insights and strategic business solutions. With a strong foundation in statistical analysis, data visualization, and business intelligence, I excel at identifying trends, optimizing processes, and driving data-informed decision-making. My expertise spans various industries, allowing me to adeptly tackle challenges and deliver results that enhance operational efficiency and foster business growth. Passionate about leveraging data to create value, I am committed to continuous learning and staying abreast of the latest analytical tools and methodologies.
